@@ -499,6 +499,12 @@
     <string name="volte_icon_oos">VoLTE OOS Icon</string>
     <string name="volte_icon_hd">HD Icon</string>
 
+    <!-- VoWiFi icon -->
+    <string name="vowifi_icon_title">VoWiFi icon</string>
+    <string name="vowifi_icon_enabled">Enabled</string>
+    <string name="vowifi_icon_disabled">Disabled</string>
+    <string name="vowifi_icon_enabled_volte_disabled">VoWiFi instead of VoLTE</string>
+
     <!-- Status bar clock and date options -->
     <string name="status_bar_clock_title">Clock settings</string>
     <string name="status_bar_clock">Clock &amp; Date</string>
